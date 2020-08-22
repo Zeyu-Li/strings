@@ -6,4 +6,4 @@
 -- reads from standard console input, including line breaks
 lines = io.read("*all")
 
-io.write("Lower case is: \n", string.upper(lines))
+io.write("Upper case is: \n", string.upper(lines))

@@ -15,7 +15,7 @@ lua upper.lua
 
 ## Includes
 
-* upper.lua - changes all lines to upeprcase
+* upper.lua - changes all lines to uppercase
 * lower.lua - changes all lines to lowercase
 * lineCounter.lua - counts the number of lines
 
